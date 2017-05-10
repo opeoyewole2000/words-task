@@ -1,0 +1,14 @@
+{
+  "name": "words",
+  "version": "1.0.0",
+  "description": "manipulation a sentence by counting the occurence of each word and returning the reult in JSON\u001bOD\u001bOD\u001bOD\u001bOD\u001bODsult in JSON",
+  "main": "words.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "ope oyewole",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
